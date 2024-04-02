@@ -1,5 +1,8 @@
 # Next.js & Cloudinary example app
 
+![image](https://github.com/qyy752457002/Next.js-Imagery-Gallery/assets/88706924/cddff482-9d37-4bf7-b3e2-fb16d9280a13)
+
+
 This example shows how to create an image gallery site using Next.js, [Cloudinary](https://cloudinary.com), and [Tailwind](https://tailwindcss.com).
 
 ## Deploy your own
